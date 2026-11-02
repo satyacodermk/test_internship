@@ -1,0 +1,2 @@
+# Smart Library & Resource Management System
+# Python 3.10+ standard library only - nothing to install.
