@@ -1,0 +1,171 @@
+2026-11-02 13:16:17|system|-|BACKUP|OK|2026-11-02_13-16-17 (startup)
+2026-11-02 13:16:17|system|-|STARTUP|OK|40 books, 7 users
+2026-11-02 13:18:22|admin|Admin|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:18:31|admin|Admin|LOGIN|OK|
+2026-11-02 13:20:00|admin|Admin|USER_ADD|OK|M008 Satyam
+2026-11-02 13:20:08|admin|Admin|LOGOUT|OK|
+2026-11-02 13:20:10|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:28|system|-|BACKUP|OK|2026-11-02_13-34-28 (startup)
+2026-11-02 13:34:28|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:34|admin|Admin|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:34:34|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:34|system|-|BACKUP|OK|2026-11-02_13-34-34 (startup)
+2026-11-02 13:34:34|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:36|admin|Admin|LOGIN_FAILED|FAIL|attempts left 1
+2026-11-02 13:34:36|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:36|system|-|BACKUP|OK|2026-11-02_13-34-36 (startup)
+2026-11-02 13:34:36|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:38|ghost|-|LOGIN_FAILED|FAIL|unknown user
+2026-11-02 13:34:38|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:38|system|-|BACKUP|OK|2026-11-02_13-34-38 (startup)
+2026-11-02 13:34:38|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:39|lib1|Librarian|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:34:39|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:39|system|-|BACKUP|OK|2026-11-02_13-34-39 (startup)
+2026-11-02 13:34:39|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:40|riya|Member|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:34:40|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:40|system|-|BACKUP|OK|2026-11-02_13-34-40 (startup)
+2026-11-02 13:34:40|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:41|riya|Member|LOGIN_FAILED|FAIL|attempts left 1
+2026-11-02 13:34:41|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:41|system|-|BACKUP|OK|2026-11-02_13-34-41 (startup)
+2026-11-02 13:34:41|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:41|riya|Member|LOGIN_FAILED|FAIL|attempts left 0
+2026-11-02 13:34:41|riya|Member|ACCOUNT_LOCKED|FAIL|5 min
+2026-11-02 13:34:41|1|-|LOGIN_FAILED|FAIL|unknown user
+2026-11-02 13:34:42|0|-|LOGIN_FAILED|FAIL|unknown user
+2026-11-02 13:34:42|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:43|system|-|BACKUP|OK|2026-11-02_13-34-43 (startup)
+2026-11-02 13:34:43|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:43|riya|Member|LOGIN_FAILED|FAIL|account locked
+2026-11-02 13:34:43|system|-|SHUTDOWN|OK|
+2026-11-02 13:34:43|system|-|BACKUP|OK|2026-11-02_13-34-43_2 (startup)
+2026-11-02 13:34:43|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:34:53|system|-|BACKUP|OK|2026-11-02_13-34-53 (startup)
+2026-11-02 13:34:53|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:09|system|-|BACKUP|OK|2026-11-02_13-35-09 (startup)
+2026-11-02 13:35:09|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:19|system|-|BACKUP|OK|2026-11-02_13-35-19 (startup)
+2026-11-02 13:35:19|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:27|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:27|system|-|BACKUP|OK|2026-11-02_13-35-27 (startup)
+2026-11-02 13:35:27|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:28|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:29|system|-|BACKUP|OK|2026-11-02_13-35-28 (startup)
+2026-11-02 13:35:29|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:29|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:29|system|-|BACKUP|OK|2026-11-02_13-35-29 (startup)
+2026-11-02 13:35:29|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:29|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:29|system|-|BACKUP|OK|2026-11-02_13-35-29_2 (startup)
+2026-11-02 13:35:29|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:31|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:32|system|-|BACKUP|OK|2026-11-02_13-35-32 (startup)
+2026-11-02 13:35:32|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:32|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:32|system|-|BACKUP|OK|2026-11-02_13-35-32_2 (startup)
+2026-11-02 13:35:32|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:32|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:32|system|-|BACKUP|OK|2026-11-02_13-35-32_3 (startup)
+2026-11-02 13:35:32|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:32|system|-|SHUTDOWN|OK|
+2026-11-02 13:35:32|system|-|BACKUP|OK|2026-11-02_13-35-32_4 (startup)
+2026-11-02 13:35:32|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:35:33|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:06|system|-|BACKUP|OK|2026-11-02_13-40-06 (startup)
+2026-11-02 13:40:06|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:06|admin|Admin|LOGIN|OK|
+2026-11-02 13:40:06|admin|Admin|LOGOUT|OK|
+2026-11-02 13:40:06|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:06|system|-|BACKUP|OK|2026-11-02_13-40-06_2 (startup)
+2026-11-02 13:40:06|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:06|admin|Admin|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:40:06|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:07|system|-|BACKUP|OK|2026-11-02_13-40-07 (startup)
+2026-11-02 13:40:07|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:07|ghost|-|LOGIN_FAILED|FAIL|unknown user
+2026-11-02 13:40:07|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:07|system|-|BACKUP|OK|2026-11-02_13-40-07_2 (startup)
+2026-11-02 13:40:07|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:07|lib1|Librarian|LOGIN|OK|
+2026-11-02 13:40:07|lib1|Librarian|LOGOUT|OK|
+2026-11-02 13:40:07|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:07|system|-|BACKUP|OK|2026-11-02_13-40-07_3 (startup)
+2026-11-02 13:40:07|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:07|riya|Member|LOGIN|OK|
+2026-11-02 13:40:07|riya|Member|LOGOUT|OK|
+2026-11-02 13:40:07|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:07|system|-|BACKUP|OK|2026-11-02_13-40-07_4 (startup)
+2026-11-02 13:40:07|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:08|riya|Member|LOGIN|OK|
+2026-11-02 13:40:08|riya|Member|LOGOUT|OK|
+2026-11-02 13:40:08|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:08|system|-|BACKUP|OK|2026-11-02_13-40-08 (startup)
+2026-11-02 13:40:08|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:08|riya|Member|LOGIN|OK|
+2026-11-02 13:40:08|riya|Member|LOGOUT|OK|
+2026-11-02 13:40:08|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:08|system|-|BACKUP|OK|2026-11-02_13-40-08_2 (startup)
+2026-11-02 13:40:08|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:08|riya|Member|LOGIN|OK|
+2026-11-02 13:40:08|riya|Member|BORROW|OK|TXN-20261102-0001 M003 B001
+2026-11-02 13:40:08|riya|Member|LOGOUT|OK|
+2026-11-02 13:40:08|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:09|system|-|BACKUP|OK|2026-11-02_13-40-09 (startup)
+2026-11-02 13:40:09|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:09|lib1|Librarian|LOGIN|OK|
+2026-11-02 13:40:09|lib1|Librarian|BORROW|OK|TXN-20261102-0002 M003 B002
+2026-11-02 13:40:09|lib1|Librarian|LOGOUT|OK|
+2026-11-02 13:40:09|system|-|SHUTDOWN|OK|
+2026-11-02 13:40:09|system|-|BACKUP|OK|2026-11-02_13-40-09_2 (startup)
+2026-11-02 13:40:09|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:40:09|admin|Admin|LOGIN|OK|
+2026-11-02 13:40:09|admin|Admin|BOOK_ADD|FAIL|Duplicate ISBN: 9780100007919 already belongs to 'Clean Code'.
+2026-11-02 13:40:09|admin|Admin|LOGOUT|OK|
+2026-11-02 13:40:09|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:12|system|-|BACKUP|OK|2026-11-02_13-43-12 (startup)
+2026-11-02 13:43:12|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:13|admin|Admin|LOGIN|OK|
+2026-11-02 13:43:13|admin|Admin|LOGOUT|OK|
+2026-11-02 13:43:13|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:13|system|-|BACKUP|OK|2026-11-02_13-43-13 (startup)
+2026-11-02 13:43:13|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:13|admin|Admin|LOGIN_FAILED|FAIL|attempts left 2
+2026-11-02 13:43:13|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:13|system|-|BACKUP|OK|2026-11-02_13-43-13_2 (startup)
+2026-11-02 13:43:13|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:13|ghost|-|LOGIN_FAILED|FAIL|unknown user
+2026-11-02 13:43:13|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:13|system|-|BACKUP|OK|2026-11-02_13-43-13_3 (startup)
+2026-11-02 13:43:13|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:13|lib1|Librarian|LOGIN|OK|
+2026-11-02 13:43:13|lib1|Librarian|LOGOUT|OK|
+2026-11-02 13:43:13|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:14|system|-|BACKUP|OK|2026-11-02_13-43-14 (startup)
+2026-11-02 13:43:14|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:14|riya|Member|LOGIN|OK|
+2026-11-02 13:43:14|riya|Member|LOGOUT|OK|
+2026-11-02 13:43:14|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:14|system|-|BACKUP|OK|2026-11-02_13-43-14_2 (startup)
+2026-11-02 13:43:14|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:14|riya|Member|LOGIN|OK|
+2026-11-02 13:43:14|riya|Member|LOGOUT|OK|
+2026-11-02 13:43:14|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:14|system|-|BACKUP|OK|2026-11-02_13-43-14_3 (startup)
+2026-11-02 13:43:14|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:14|riya|Member|LOGIN|OK|
+2026-11-02 13:43:14|riya|Member|LOGOUT|OK|
+2026-11-02 13:43:14|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:14|system|-|BACKUP|OK|2026-11-02_13-43-14_4 (startup)
+2026-11-02 13:43:14|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:14|riya|Member|LOGIN|OK|
+2026-11-02 13:43:14|riya|Member|BORROW|FAIL|This member already has this book on loan.
+2026-11-02 13:43:14|riya|Member|LOGOUT|OK|
+2026-11-02 13:43:14|system|-|SHUTDOWN|OK|
+2026-11-02 13:43:15|system|-|BACKUP|OK|2026-11-02_13-43-15 (startup)
+2026-11-02 13:43:15|system|-|STARTUP|OK|40 books, 8 users
+2026-11-02 13:43:15|admin|Admin|LOGIN|OK|
+2026-11-02 13:43:15|admin|Admin|BOOK_ADD|FAIL|Duplicate ISBN: 9780100007919 already belongs to 'Clean Code'.
+2026-11-02 13:43:15|admin|Admin|LOGOUT|OK|
+2026-11-02 13:43:15|system|-|SHUTDOWN|OK|

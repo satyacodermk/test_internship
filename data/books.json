@@ -1,0 +1,362 @@
+[
+  {
+    "book_id": "B001",
+    "isbn": "9780100007919",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "total_copies": 3,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B002",
+    "isbn": "9780100015838",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category": "Programming",
+    "total_copies": 3,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B003",
+    "isbn": "9780100023757",
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B004",
+    "isbn": "9780100031676",
+    "title": "Python Cookbook",
+    "author": "David Beazley",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B005",
+    "isbn": "9780100039595",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B006",
+    "isbn": "9780100047514",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas Cormen",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B007",
+    "isbn": "9780100055433",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "category": "Programming",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B008",
+    "isbn": "9780100063352",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B009",
+    "isbn": "9780100071271",
+    "title": "Automate the Boring Stuff",
+    "author": "Al Sweigart",
+    "category": "Programming",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "B010",
+    "isbn": "9780100079190",
+    "title": "Learning Python",
+    "author": "Mark Lutz",
+    "category": "Programming",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B011",
+    "isbn": "9780100087109",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B012",
+    "isbn": "9780100095028",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B013",
+    "isbn": "9780100102947",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "B014",
+    "isbn": "9780100110866",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B015",
+    "isbn": "9780100118785",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B016",
+    "isbn": "9780100126704",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B017",
+    "isbn": "9780100134623",
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "category": "Fiction",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B018",
+    "isbn": "9780100142542",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B019",
+    "isbn": "9780100150461",
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B020",
+    "isbn": "9780100158380",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "category": "History",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B021",
+    "isbn": "9780100166299",
+    "title": "The Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "category": "History",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B022",
+    "isbn": "9780100174218",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B023",
+    "isbn": "9780100182137",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B024",
+    "isbn": "9780100190056",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B025",
+    "isbn": "9780100197975",
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "category": "Science",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B026",
+    "isbn": "9780100205894",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "B027",
+    "isbn": "9780100213813",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "category": "Self-Help",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B028",
+    "isbn": "9780100221732",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Self-Help",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B029",
+    "isbn": "9780100229651",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "category": "Self-Help",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B030",
+    "isbn": "9780100237570",
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "category": "Business",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B031",
+    "isbn": "9780100245489",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Business",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B032",
+    "isbn": "9780100253408",
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "category": "Business",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B033",
+    "isbn": "9780100261327",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "category": "Business",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B034",
+    "isbn": "9780100269246",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B035",
+    "isbn": "9780100277165",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "B036",
+    "isbn": "9780100285084",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B037",
+    "isbn": "9780100293003",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "total_copies": 1,
+    "available_copies": 1
+  },
+  {
+    "book_id": "B038",
+    "isbn": "9780100300922",
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "category": "Biography",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B039",
+    "isbn": "9780100308841",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "Biography",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "B040",
+    "isbn": "9780100316760",
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "category": "Biography",
+    "total_copies": 1,
+    "available_copies": 1
+  }
+]

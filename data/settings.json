@@ -1,0 +1,11 @@
+{
+  "borrow_limit": 3,
+  "borrow_days": 14,
+  "fine_rate": 5,
+  "fine_limit": 100,
+  "pickup_days": 2,
+  "extension_days": 7,
+  "max_extensions": 1,
+  "lockout_attempts": 3,
+  "lockout_minutes": 5
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "txn_id": "TXN-20261102-0001",
+    "member_id": "M003",
+    "book_id": "B001",
+    "borrowed_on": "2026-11-02",
+    "due_date": "2026-11-16",
+    "returned_on": null,
+    "status": "ACTIVE",
+    "extensions": 0,
+    "days_late": 0
+  },
+  {
+    "txn_id": "TXN-20261102-0002",
+    "member_id": "M003",
+    "book_id": "B002",
+    "borrowed_on": "2026-11-02",
+    "due_date": "2026-11-16",
+    "returned_on": null,
+    "status": "ACTIVE",
+    "extensions": 0,
+    "days_late": 0
+  }
+]
